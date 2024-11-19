@@ -1,11 +1,14 @@
 - 👋 Hi, I’m Pepe
-- I’m interested in Python, Tensorflow, Robotics, JAVA, PL/SQL
+- I’m interested in JAVA, JavaScript, Python, Tensorflow, Robotics
 - I’m currently learning C#, C++
 
-Proyecto desarrollo de aplicaciones web
+DragonBallDle
 -
-https://github.com/PepeAliasJose/ProyectoDaw
-Pagina web dinámica con información astronómica y un simulador del cielo nocturno.
+Página web inspirada en juegos como Wordle. 
+Consiste en adivinar cada día un personaje de Dragon Ball. Página hecha usando ReactJS, Chakra UI, y Firebase. 
+Desplegada en Firebase hosting con 10 mil usuarios nuevos en los últimos 28 días
+
+https://dragonballdle.web.app/
 
 Proyecto automatización y robotica industrial 
 -
