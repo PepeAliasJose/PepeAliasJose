@@ -1,14 +1,18 @@
 - 👋 Hi, I’m Pepe
-- I’m interested in JAVA, JavaScript, Python, Tensorflow, Robotics
-- I’m currently learning C#, C++
+- I’m interested in Java, JavaScript, Python, Tensorflow, Robotics
+- I’m currently learning C++, also deeper JS and Java
 
 DragonBallDle
 -
+
 Página web inspirada en juegos como Wordle. 
 Consiste en adivinar cada día un personaje de Dragon Ball. Página hecha usando ReactJS, Chakra UI, y Firebase. 
 Desplegada en Firebase hosting con 10 mil usuarios nuevos en los últimos 28 días
 
+TypeScript || React 
+
 https://dragonballdle.web.app/
+
 
 Proyecto automatización y robotica industrial 
 -
