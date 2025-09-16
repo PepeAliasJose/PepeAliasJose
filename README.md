@@ -1,38 +1,40 @@
-- 👋 Hi, I’m Pepe
-- I’m interested in Java, JavaScript, Python, Tensorflow, Robotics
-- I’m currently learning C++, also deeper JS and Java
+# PepeAliasJose
 
-DragonBallDle
--
+👋 Hi, I’m Pepe, I’m interested in Java, JavaScript, Python, Tensorflow and Robotics.
+I've been in contact with technology since I was 8 with an old single-core Linux computer with 512 MB of RAM,
+now I’m currently learning C and C++.
 
-Página web inspirada en juegos como Wordle. 
-Consiste en adivinar cada día un personaje de Dragon Ball. Página hecha usando ReactJS, Chakra UI, y Firebase. 
-Desplegada en Firebase hosting con 10 mil usuarios nuevos en los últimos 28 días
+## MINERVA I
 
-TypeScript || React 
+Minerva I is an open-source 3D simulator. You can see a realistic solar system where all the celestial bodies are in the same position as in real life.
+
+- React
+- JavaScript
+- Three.js
+
+## DRAGONBALL DLE
+
+Webpage inspired in games like wordle.
+In any of the four different game modes, a new Dragon Ball character appears daily. If you cannot guess it, you can always find it out the next day.
+
+- React
+- Tailwind CSS
 
 https://dragonballdle.web.app/
 
 
-Proyecto automatización y robotica industrial 
--
+## SELENE III
 
-  - https://github.com/PepeAliasJose/ProyectoFinalRobotica
+  - [GitHub project](https://github.com/PepeAliasJose/SELENE)
   - https://drive.google.com/file/d/1v0rDPRMTnyQ2dX-iTHn43rSdXbemQ6wb/view?usp=sharing
   - https://drive.google.com/file/d/1i9wYDsu12i1YFHQOf3KA4yG6W8umNaCs/view?usp=sharing
 
-En este TFG de automatización y robótica industrial, me encargué del desarrollo de una visión artificial utilizando TensorFlow y una Nvidia Jetson Nano que detectaba ruedas de coche en una cinta transportadora, para regular su velocidad, su posterior apilado y montado en un vehículo por un brazo robot FANUC. Mi trabajo total consistió en:
+At an industrial system's heart, a Jetson Nano module increases its functionality. SELENE III is improved to be a full AI program with real-time object detection.
 
-Recopilación y clasificación de datos.
-Entrenamiento de la visión artificial.
-Realización del esquema de conexiones eléctricas.
-Realización de la memoria escrita sobre el proyecto.
-Investigación y aplicación de métodos de optimización en el entrenamiento de la visión artificial.
-Programación del robot FANUC.
-Programación del PLC SIEMENS 1200.
-Tests.
+SELENE III manages the installation's workflow, controlling the conveyor belts' speeds and guiding the robotic arm. SELENE III also includes a protection system that stops the installation and sends an alert message in the presence of a person if the installation is on.
 
-
+- Python 3
+- Tensorflow
 <!---
 PepeAliasJose/PepeAliasJose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
