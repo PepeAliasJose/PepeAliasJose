@@ -8,13 +8,15 @@ now I’m currently learning C and C++.
 
 Minerva I is an open-source 3D simulator. You can see a realistic solar system where all the celestial bodies are in the same position as in real life.
 
+[See website](https://minerva-sim.web.app/)
+
 - React
 - JavaScript
 - Three.js
 
 ## DRAGONBALL DLE
 
-Webpage inspired in games like wordle.
+Webpage inspired by games like Wordle.
 In any of the four different game modes, a new Dragon Ball character appears daily. If you cannot guess it, you can always find it out the next day.
 
 - React
