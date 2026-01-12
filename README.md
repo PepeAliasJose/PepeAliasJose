@@ -2,7 +2,9 @@
 
 👋 Hi, I’m Pepe, I’m interested in Java, JavaScript, Python, Tensorflow and Robotics.
 I've been in contact with technology since I was 8 with an old single-core Linux computer with 512 MB of RAM,
-now I’m currently learning C and C++. [Porfolio](https://pepercfoundry.web.app/)
+now I’m currently learning C and C++. 
+
+[Porfolio](https://pepercfoundry.web.app/)
 
 ## MINERVA I
 
